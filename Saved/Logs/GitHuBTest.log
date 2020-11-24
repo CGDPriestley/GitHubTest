@@ -932,3 +932,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.24-15.30.39:387][523]LogActorFactory: Actor Factory created Cone
 [2020.11.24-15.30.40:617][669]LogActorFactory: Actor Factory created Cone
 [2020.11.24-15.30.44:070][ 79]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.11.24-15.38.02:489][279]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.24-15.38.02:529][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.24-15.38.03:037][279]LogSavePackage: Moving 'D:/matt/unreal/GitHuBTest/Saved/ThirdPersonExampleMap_Auto1B9C7647941DC314D9B241BBE82DD4BC1.tmp' to 'D:/matt/unreal/GitHuBTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.11.24-15.38.03:038][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.518
+[2020.11.24-15.38.03:038][279]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.518
+[2020.11.24-15.38.18:412][ 99]LogSlate: Window 'Source Control Login' being destroyed
+[2020.11.24-15.38.47:287][433]LogActorFactory: Actor Factory created Sphere
+[2020.11.24-15.38.47:972][514]LogActorFactory: Actor Factory created Sphere
+[2020.11.24-15.38.52:378][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.11.24-15.38.54:293][ 33]LogSlate: Window 'Save Content' being destroyed
+[2020.11.24-15.38.54:388][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.11.24-15.38.54:405][ 33]LogSavePackage: Moving 'D:/matt/unreal/GitHuBTest/Saved/ThirdPersonExampleMap322E08AB42478D3C43E990B9EB764929.tmp' to 'D:/matt/unreal/GitHuBTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.24-15.38.54:412][ 33]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.033
+[2020.11.24-15.38.54:412][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/matt/unreal/GitHuBTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.11.24-15.38.54:515][ 33]LogSavePackage: Moving 'D:/matt/unreal/GitHuBTest/Saved/ThirdPersonExampleMap_BuiltDataA04249E845255A42A71F579CCB82B9B0.tmp' to 'D:/matt/unreal/GitHuBTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.24-15.38.54:529][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.24-15.38.54:529][ 33]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.24-15.38.54:529][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.24-15.38.55:604][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.11.24-15.38.55:635][144]LogSavePackage: Moving 'D:/matt/unreal/GitHuBTest/Saved/ThirdPersonExampleMap659685A343E010FAC3A710AAEB851F20.tmp' to 'D:/matt/unreal/GitHuBTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.24-15.38.55:728][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/matt/unreal/GitHuBTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.11.24-15.38.55:787][144]LogSavePackage: Moving 'D:/matt/unreal/GitHuBTest/Saved/ThirdPersonExampleMap_BuiltData75197C7D4DE4B918C637FC862468F8F9.tmp' to 'D:/matt/unreal/GitHuBTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.24-15.38.55:795][144]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.24-15.38.55:795][144]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.24-15.38.55:795][144]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.24-15.39.02:749][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:749][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:749][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.02:750][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/matt/unreal/GitHuBTest'
+[2020.11.24-15.39.27:011][924]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.24-15.39.28:248][924]LogSourceControl: commit successful: [main a196370] added extra object and another player
+[2020.11.24-15.39.28:292][924]SourceControl: [main a196370] added extra object and another player
+[2020.11.24-15.39.28:292][924]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.24-15.39.28:297][924]SourceControl: Commited [main a196370] added extra object and another player.
