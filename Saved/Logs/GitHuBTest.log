@@ -927,3 +927,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.24-15.27.20:417][  0]LogAssetRegistry: Asset discovery search completed in 6.3904 seconds
 [2020.11.24-15.27.20:420][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2020.11.24-15.27.20:725][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.24-15.30.33:841][869]LogActorFactory: Actor Factory created Cube
+[2020.11.24-15.30.34:713][972]LogActorFactory: Actor Factory created Cube
+[2020.11.24-15.30.39:387][523]LogActorFactory: Actor Factory created Cone
+[2020.11.24-15.30.40:617][669]LogActorFactory: Actor Factory created Cone
+[2020.11.24-15.30.44:070][ 79]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
